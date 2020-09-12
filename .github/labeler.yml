@@ -1,0 +1,16 @@
+# Add 'Package: SPA' label to any changes within the 'SPA' package
+'Package: SPA':
+  - packages/spa/*
+  - packages/spa/**/*
+
+# Add 'Package: Microservice' label to any changes within the 'Microservice' package
+'Package: Microservice':
+  - packages/microservice/*
+  - packages/microservice/**/*
+
+# Add 'PType: Test'' label to any changes within any test or spec files
+'Type: Test':
+  - *.test.js
+  - *.spec.js
+  - ./**/*.spec.js
+  - ./**/*.test.js  
