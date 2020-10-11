@@ -79,7 +79,7 @@
     "husky": "4.3.0",
     "jest": "26.5.3",
     "jest-transform-graphql": "2.1.0",
-    "semantic-release": "17.1.2",
+    "semantic-release": "17.2.0",
     "semantic-release-monorepo": "7.0.3",
     "ts-loader": "8.0.4",
     "tslint": "6.1.3",
