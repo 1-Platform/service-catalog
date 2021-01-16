@@ -2,9 +2,9 @@
   "name": "service-catalog",
   "private": true,
   "devDependencies": {
-    "commitizen": "4.2.2",
+    "commitizen": "4.2.3",
     "cz-conventional-changelog": "3.3.0",
-    "husky": "4.3.7",
+    "husky": "4.3.8",
     "lerna": "3.22.1"
   },
   "description": "A service catalog to organize collections of any and all business related services that can be performed by, for, or within any Product and Technology group.",
