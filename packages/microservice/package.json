@@ -52,7 +52,7 @@
     "graphql-redis-subscriptions": "2.3.1",
     "apollo-log": "0.2.0",
     "apollo-server-express": "2.21.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "method-override": "3.0.0",
     "mongoose": "5.11.17",
     "morgan": "1.10.0",
