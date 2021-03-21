@@ -71,7 +71,7 @@
     "@types/lodash": "4.14.168",
     "@types/method-override": "0.0.31",
     "@types/mocha": "8.2.2",
-    "@types/mongoose": "5.10.3",
+    "@types/mongoose": "5.10.4",
     "@types/morgan": "1.9.2",
     "@types/node": "12.20.6",
     "@types/supertest": "2.0.10",
