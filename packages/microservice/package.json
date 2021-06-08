@@ -73,7 +73,7 @@
     "@types/mocha": "8.2.2",
     "@types/mongoose": "5.11.96",
     "@types/morgan": "1.9.2",
-    "@types/node": "12.20.14",
+    "@types/node": "14.17.3",
     "@types/supertest": "2.0.11",
     "graphql-tag": "2.12.4",
     "husky": "4.3.8",
